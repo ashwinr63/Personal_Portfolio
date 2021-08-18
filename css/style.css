@@ -11,9 +11,9 @@
     --fw-reg: 400;
     --fw-bold: 700;
 
-    --clr-lg: #fff;
-    --clr-dk: #303300;
-    --clr-accnt: #16e0bd;
+    --clr-lg: rgba(235, 221, 221, 0.897);
+    --clr-dk: #2f3029;
+    --clr-accnt: #236415;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
